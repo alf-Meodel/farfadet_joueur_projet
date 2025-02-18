@@ -10,7 +10,7 @@
 
 # Navigation
 
-- [Benchmark SGBDR](./doc/benchmark-sgbdr.md)
+- [Entretiens avec le client](./doc/entretiens/1802_E0.md)
 
 ![border](./assets/line/line-pink-point_l.png)
 
