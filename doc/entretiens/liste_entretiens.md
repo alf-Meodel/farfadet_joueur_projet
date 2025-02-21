@@ -16,7 +16,7 @@
 
 
 - [1802_Proposition du projet](/doc/entretiens/1802_E0.md)
-- [2102_Validation du stage](#)
+- [2102_Validation du stage](/doc/entretiens/2102_E1.md)
 
 
 ![border](../../assets/line/line-teal-point_r.png)
