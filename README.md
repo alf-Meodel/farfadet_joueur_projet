@@ -4,15 +4,14 @@
 
 ![border](./assets/line/border_deco_rt.png)
 
-# Sommaire
+<!-- # Sommaire
 
-- [Objectif et Consignes](#objectif-et-consignes)
+- [Objectif et Consignes](#objectif-et-consignes) -->
 
 # Navigation
 
 - [Liste entretiens](./doc/entretiens/liste_entretiens.md)
-- [Deuxieme entretien avec le client](./doc/entretiens/2102_E1.md)
-- [Presentation Canva](./doc/presentation/presentation.md)
+- [Presentation du projet](./doc/presentation/presentation.md)
 - [Tableau des compétences CDA](./assets/img/cda_competences.png)
 
 
