@@ -12,6 +12,8 @@
 
 - [Entretiens avec le client](./doc/entretiens/1802_E0.md)
 - [Deuxieme entretien avec le client](./doc/entretiens/2102_E1.md)
+- [Presentation Canva](./doc/presentation/presentation.md)
+
 
 ![border](./assets/line/line-pink-point_l.png)
 
