@@ -19,6 +19,25 @@
 - [2102_Validation du stage](/doc/entretiens/2102_E1.md)
 
 
+
+## Points Stratégiques: 
+
+- Transformer son site en une extension naturelle de sa boutique, et non une contrainte supplémentaire.
+- Possibilité d’afficher des informations sans passer par Facebook
+- Un QR Code à afficher en boutique pour accéder aux événements.
+- Option "Réserver un jeu en ligne et venir le chercher" (Click & Collect).
+- Pas un gros e-commerce, mais une vitrine des jeux disponibles en boutique.
+
+
+## A Retenir : 
+
+- Je me suis engagé à leur donner un site vitrine quoiqu'il arrive 
+- Nosu avons déja discuté de la disponibilité de leur nom de domaine 
+
+
+
+
+
 ![border](../../assets/line/line-teal-point_r.png)
 
 ---
