@@ -4,10 +4,10 @@
 
 ![border](./assets/line/border_deco_rt.png)
 
-![farfadet_logo](./assets/img/logo_bannière.png)
-<!-- # Sommaire
+![farfadet_logo](./assets/img/fil-rouge-farfadet.png)
+# Sommaire
 
-- [Objectif et Consignes](#objectif-et-consignes) -->
+- [Objectif et Consignes](#objectif-et-consignes)
 
 # Navigation
 
