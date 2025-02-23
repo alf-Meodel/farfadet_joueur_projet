@@ -4,17 +4,19 @@
 
 ![border](./assets/line/border_deco_rt.png)
 
-![farfadet_logo](./assets/img/fil-rouge-farfadet.png)
+![farfadet_logo](./assets/img/fil-rouge-farfadet0.png)
 # Sommaire
 
+- [Tableau des compétences CDA](#tableau-des-compétences-cda)
 - [Objectif et Consignes](#objectif-et-consignes)
 
 # Navigation
 
 - [Liste des entretiens clients](./doc/entretiens/liste_entretiens.md)
-- [Presentation du projet](./doc/presentation/presentation.md)
+- [Structure Powerpoint du projet](./doc/presentation/presentation.md)
 - [Tableau des compétences CDA](./assets/img/cda_competences.png)
 
+# Tableau des compétences CDA
 
 ![tableau compétences](./assets/img/Nouvelles_COMPET.png)
 ![border](./assets/line/line-pink-point_l.png)
