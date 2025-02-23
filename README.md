@@ -8,7 +8,7 @@
 # Sommaire
 
 - [Tableau des compétences CDA](#tableau-des-compétences-cda)
-- [Objectif et Consignes](#objectif-et-consignes)
+
 
 # Navigation
 
