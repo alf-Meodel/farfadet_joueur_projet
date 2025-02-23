@@ -13,7 +13,7 @@
 ## Navigation
 
 - [Liste des entretiens clients](./doc/entretiens/liste_entretiens.md)
-- [Structure Powerpoint du projet](./doc/powerpoint/mon_powerpoint.md)
+- [Slides du projet](./doc/slides/slides_presentation.md)
 
 
 
