@@ -67,10 +67,10 @@ Organisateurs d'événements
 
 ## Méthodologie Utilisée
 
-- Approche Agile
-- Cycles courts de développement
-- Points réguliers avec le client
-- Méthode itérative avec présentations de prototypes
+Approche Agile
+Cycles courts de développement
+Points réguliers avec le client
+Méthode itérative avec présentations de prototypes
 
 ## Dictionnaire de Données
 
@@ -78,30 +78,87 @@ Organisateurs d'événements
 
 ## Sécurité
 
-- Authentification
-    - Système de connexion sécurisé
-    - Gestion des sessions
-    - Double authentification pour l'administration
-- Protection des données
-    - Conformité RGPD
-    - Chiffrement des données sensibles
-    - Sauvegarde régulière
-
 ### Défense en Profondeur
 
-*Description de la stratégie de défense en profondeur*
+La stratégie de défense en profondeur s'articule autour de plusieurs couches de sécurité :
+
+1. **Niveau Infrastructure**
+   - Hébergement sécurisé (VPS/Heroku)
+   - Pare-feu configuré pour n'autoriser que les ports nécessaires (80, 443, SSH)
+   - Mise à jour régulière du système d'exploitation
+   - Configuration HTTPS avec certificat SSL/TLS
+
+2. **Niveau Application**
+   - Fastify configuré avec helmet pour les en-têtes de sécurité
+   - Validation des données entrantes avec JSON Schema
+   - Rate limiting pour prévenir les attaques par force brute
+   - Gestion des sessions avec des JWT sécurisés
+
+3. **Niveau Base de Données**
+   - PostgreSQL configuré avec accès restreint
+   - Chiffrement des données sensibles
+   - Sauvegardes automatiques chiffrées
 
 ### Réduction de la Surface d'Attaque
 
-*Stratégies de réduction de la surface d'attaque*
+
+1. **Frontend (React.js)**
+   - Utilisation de dependencies sécurisées et à jour
+   - Sanitization des données affichées
+   - Protection contre les attaques XSS
+   - Implementation du CSP (Content Security Policy)
+
+2. **Backend (Fastify)**
+   - Désactivation des en-têtes sensibles
+   - Validation stricte des entrées utilisateur
+   - Gestion des erreurs sans divulgation d'informations sensibles
+   - API documentation limitée en production
+
+3. **Base de Données**
+   - Accès uniquement depuis le backend
+   - Ports non exposés publiquement
+   - Requêtes paramétrées pour prévenir les injections SQL
 
 ### Politique de Moindre Privilège
 
-*Description de la politique de moindre privilège*
+
+1. **Authentification**
+   - JWT avec expiration courte
+   - Refresh tokens sécurisés
+   - Validation des sessions côté serveur
+
+2. **Autorisation**
+   - Rôles utilisateur clairement définis (admin, utilisateur)
+   - Vérification des permissions à chaque requête API
+   - Isolation des ressources par utilisateur
+
+3. **Base de Données**
+   - Utilisateur PostgreSQL dédié avec permissions minimales
+   - Schémas séparés pour différentes parties de l'application
+   - Audit des accès importants
 
 ### Conformité RGPD
 
-*Mesures de conformité RGPD*
+
+1. **Gestion des Données Personnelles**
+   - Collecte minimale des données nécessaires
+   - Chiffrement des données sensibles dans PostgreSQL
+   - Durée de conservation définie et respectée
+
+2. **Droits des Utilisateurs**
+   - Interface de téléchargement des données personnelles
+   - Possibilité de suppression du compte
+   - Système de consentement explicite
+
+3. **Documentation et Processus**
+   - Politique de confidentialité claire
+   - Registre des traitements
+   - Procédure en cas de violation de données
+
+4. **Mesures Techniques**
+   - Logs d'audit des accès aux données personnelles
+   - Chiffrement en transit (HTTPS)
+   - Chiffrement au repos des données sensibles
 
 ---
 
