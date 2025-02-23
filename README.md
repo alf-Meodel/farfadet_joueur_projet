@@ -14,8 +14,8 @@
 
 - [Liste des entretiens clients](./doc/entretiens/liste_entretiens.md)
 - [Structure Powerpoint du projet](./doc/powerpoint/mon_powerpoint.md)
-- [Tableau des compétences CDA](./assets/img/cda_competences.png)
-- [Tableau des compétences CDA](./assets/img/cda_competences.png)
+
+
 
 # Structure globale du projet
 
