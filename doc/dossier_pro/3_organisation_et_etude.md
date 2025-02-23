@@ -40,19 +40,12 @@
 
 ## Règles de Gestion
 
-- Validation des réservations par les administrateurs
-- Limitation du nombre de participants par événement
-- Gestion des délais d'annulation
-- Contrôle des contenus publiés
-- Gestion des droits d'accès
+- /////////////////// à faire 
 
 ## Composition des Équipes
 
-- Product Owner : Client (Léa et Mathieu)
-- Développeur(s)
-- Designer UI/UX
-- Chef de projet
-- Justin (nouveau membre mentionné dans les documents)
+- Franck : Développeur 
+- Justin : Développeur 
 
 ## Personas
 
