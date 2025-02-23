@@ -5,19 +5,19 @@
 ![border](./assets/line/border_deco_rt.png)
 
 ![farfadet_logo](./assets/img/farfadet.png)
-# Sommaire
+## Sommaire
 
 - [Tableau des compétences CDA](#tableau-des-compétences-cda)
 
 
-# Navigation
+## Navigation
 
 - [Liste des entretiens clients](./doc/entretiens/liste_entretiens.md)
 - [Structure Powerpoint du projet](./doc/powerpoint/mon_powerpoint.md)
 
 
 
-# Structure globale du projet
+## Structure globale du projet
 
 
 ### [1. Introduction](./doc/dossier_pro/1_introduction.md)
@@ -93,7 +93,7 @@
 - [Démo de l'Application](./doc/dossier_pro/7_partie_deploiement.md#démo-de-lapplication)
 
 
-# Tableau des compétences CDA
+## Tableau des compétences CDA
 
 ![tableau compétences](./assets/img/Nouvelles_COMPET.png)
 ![border](./assets/line/line-pink-point_l.png)
