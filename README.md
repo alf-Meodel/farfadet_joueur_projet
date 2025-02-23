@@ -11,7 +11,7 @@
 
 # Navigation
 
-- [Liste entretiens](./doc/entretiens/liste_entretiens.md)
+- [Liste des entretiens clients](./doc/entretiens/liste_entretiens.md)
 - [Presentation du projet](./doc/presentation/presentation.md)
 - [Tableau des compétences CDA](./assets/img/cda_competences.png)
 
