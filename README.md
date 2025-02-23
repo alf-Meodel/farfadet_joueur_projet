@@ -16,9 +16,9 @@
 - [Tableau des compétences CDA](./assets/img/cda_competences.png)
 
 
+![tableau compétences](./assets/img/Nouvelles_COMPET.png)
 ![border](./assets/line/line-pink-point_l.png)
 
-# Titre Principal
 
 <a href="#sommaire">
 <img src="assets/button/back_to_top.png" alt="Home page" style="width: 150px; height: auto;">
