@@ -22,11 +22,10 @@
 
 # Présentation du projet Farfadet Joueur 
 
-Organisation des slides:(attention, relire le RC-découper les slides si besoin)
 
 # Introduction
 
-- Slide 1: couverture générale
+- Slide 1: Slide d'introduction
 - Slide 2: Présentation de l'apprenant(d'où je viens, où je vais(projet pro))
 
 # Sommaire
