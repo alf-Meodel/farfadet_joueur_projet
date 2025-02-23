@@ -4,7 +4,7 @@
 
 ![border](./assets/line/border_deco_rt.png)
 
-![farfadet_logo](./assets/img/fil-rouge-farfadet0.png)
+![farfadet_logo](./assets/img/farfadet.png)
 # Sommaire
 
 - [Tableau des compétences CDA](#tableau-des-compétences-cda)
