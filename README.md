@@ -4,7 +4,7 @@
 
 ![border](./assets/line/border_deco_rt.png)
 
-![farfadet_logo](./assets/img/logo_farfadet.svg)
+![farfadet_logo](./assets/img/logo_bannière.png)
 <!-- # Sommaire
 
 - [Objectif et Consignes](#objectif-et-consignes) -->
