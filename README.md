@@ -14,6 +14,7 @@
 
 - [Liste des entretiens clients](./doc/entretiens/liste_entretiens.md)
 - [Slides du projet](./doc/slides/slides_presentation.md)
+- [Slides du projet](./doc/slides/slides_presentation.md)
 
 
 
