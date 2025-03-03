@@ -18,138 +18,91 @@ répartitions des slides du powerpoint
 
 ![border](../../assets/line/line-pink-point_l.png)
 
+Voici une proposition de réorganisation des slides pour ta présentation, en intégrant clairement les exigences fonctionnelles et techniques dans le cahier des charges. Les numéros de slides (Sxx) sont repris pour que tu puisses facilement faire le lien avec tes contenus existants. 
 
+---
 
+## 1. Introduction  
+- **S1 :** Visuel d’introduction  
+- **S2 :** Présentation de l’apprenant  
+  - D’où je viens, où je vais  
 
+## 2. Sommaire  
+- **S3 :** Plan général de la présentation  
 
+## 3. Contexte & Présentation du Projet  
+- **S4 :** Introduction au projet fil rouge (La boutique du Farfadet Joueur)  
+- **S5 :** Présentation rapide du client (la boutique)  
+  - Mention de Simplon et des compétences vues que j'ai pu appliquer à trvers le projet
 
-### 1. Introduction
+## 4. Besoins du Projet & Cahier des Charges  
+- **S6 :** Contexte et enjeux pour le client  
+- **S7 :** Problématiques & Contraintes  
+- **S8 :** Expression du besoin  
+  - **Exigences fonctionnelles** (règles de gestion, fonctionnalités attendues)  
+  - **Exigences techniques** (environnement, performances, compatibilité, sécurité, etc.)  
+  - Ce que le client attend concrètement à la livraison  
 
-- **S1:** Visuel d'introduction
-- **S2:** Présentation de l'apprenant (d'où je viens, où je vais)
+## 5. Gestion du Projet  
+- **S10 :** Organisation du projet (équipes, rôles)  
+- **S11 :** Rôles et responsabilités (ta position, tes missions)  
+- **S12 :** Méthode Agile (cadre de travail, framework)  
+- **S13 :** Workflow & étapes du projet  
+  - Gitflow et conventions  
+- **S14 :** Présentation du Jira (et des autres outils utilisés pour mettre en place le projet avec Justin)  
+  - Exemple de tickets, suivi client  
 
-### 2. Sommaire
+## 6. Conception  
+- **S15 :** Liste des livrables (documents, maquettes, etc.)  
+- **S16 :** Benchmarks (comparatifs, inspirations, technologies)  
+- **S17 :** Choix de la stack technique  
+- **S18 :** Architecture n-tiers  
+- **S19-21 :** Modélisation Merise  
+  - **S19 :** MCD  
+  - **S20 :** MLD  
+  - **S21 :** MPD  
+- **S22 :** Dictionnaire de données  
+- **S23-28 :** Diagrammes UML  
+  - **S24 :** Diagramme Use Case  
+  - **S25-27 :** Diagramme Classes   
+  - **S28 :** Diagrammes Séquence / Activité  
+- **S29 :** Stratégie globale de sécurisation  
+  - Principales menaces, RGPD, défense en profondeur, politique de mot de passe, etc.  
+- **S30-31 :** Diagrammes Maquettes (mobile et desktop)  
+  - **S30 :** maquettes Wireframe (zoning)  
+  - **S31 :** Mock-up et prototypes  
 
-- **S3:** Sommaire 
-  - Présentation globale du projet
-  - Gestion de projet
-  - Conception
-  - Développement
-  - Déploiement
-  - Démo
+## 7. Développement  
+- **S32 :** Configuration de l’environnement de travail  
+- **S33 :** Mise en place du dépôt & branches (Git)  
+  - Script SQL, setup BDD (Docker), quelques requêtes SQL d’exemple  
+- **S34-35 :** Interfaces utilisateur  
+  - Responsive, accessibilité, conformité W3C  
+  - Extraits de code  
+- **S37 :** Composants métiers  
+- **S38 :** Stratégie de sécurisation de l’API  
+- **S39 :** Composants d’accès aux données  
+- **S46-49 :** Plan de tests et validations  
+  - **S46 :** Pyramide des tests  
+  - **S47 :** Tests unitaires  
+  - **S48 :** Tests d’intégration  
+  - **S49 :** Tests end-to-end (performance  ?)  
 
-### 3. Projet pour la boutique du farfadet joueur
+## 8. Déploiement  
+- **S42-43 :** DevOps  
+  - **S42 :** Docker (setup BDD)  
+  - **S43 :** CI/CD (GitHub Actions), VPS éventuel  
+- **S44-45 :** Documentation  
+  - **S44 :** Documentation technique (pour devs)  
+  - **S45 :** Documentation utilisateur (non-tech, pas à pas)  
 
-- **S4:** page de présentation du projet fil rouge????
-- **S 4/5:** présentation de simplon???
+## 9. Démo de l’Application  
+- **S50 :** Couverture de la démo (fonctionnalités clés, parcours utilisateur)  
 
-### 4. Présentation de l'entreprise et du service
+## 10. Conclusion  
+- **S51 :** Bilan du projet et de la formation (si c’était à refaire…)  
+- **S52 :** Remerciements et session de questions  
 
-- **S5:** présentation du client et de sa boutique
-
-### 5. Besoins du projet, cahier des charges
-
-- **S6:** contexte + enjeux du client
-- **S7:** problématiques (découpé en problèmes)
-  - contraintes
-- **S8:** expression du besoin
-  - exigences fonctionnelles (Règles Gestion)
-  - ce que le client attend à la livraison
-
-### 6. Gestion du projet
-
-- **S10:** Organisation du projet (équipes de travail+rôle)
-- **S11:** mes rôles et responsabilités
-- **S12:** méthode Agile (méthodo+framework(cadre de travail))(possibilité de le mettre avant l'organisation des équipes)
-- **S13:** workflow - étapes du projet (gitflow+convention)
-- **S14:** présentation du Jira (exemple de tickets)
-  - suivi client (email de rdv) ( par messages)
-
-### 7. La conception
-
-- **S15:** Listes des livrables
-- **S16:** benchmarks
-- **S17:** tech stack choisie
-- **S18:** Architecture n-tiers
-- **S19-21:** Modélisation Merise (formes Normales): 
-  - 19: MCD 
-  - 20: MLD 
-  - 21: MPD
-- **S22:** Dictionnaire de données 
-- **S23-28:** Diagrammes UML:
-- **S24:** use case
-- **S25-27:** classe(ensemble-détail)
-- **S28:** séquence
-  - activité
-- **S29:** stratégie globale de sécurisation
-  - Introduction
-  - Principales menances (top 10 OWASP)
-  - Défense en profondeur (réduction de surface d'attaque) ANSSI + OWASP BDD
-  - RGPD (réglement général protection des données)
-  - politique de mots de passe
-  - sauvegarde (rétention) API
-  - politique de moindre privilège (RBAC)
-  - authentification (token etc.)
-  - CORS
-  - ORM
-  - tunnels sécurisés (https ...)
-  - journalisation Front
-  - attention confiance client/utilisateur
-  - CORS (menaces)
-  - HTTPS
-  - Gestion des tokens
-  - CSP
-  - sanitisation des formulaires
-  - REGEX(menaces)
-- **S30-31:** Maquettes (mobile et desktop):
-  - zoning
-- **S30:** Wireframe
-- **S31:** Maquettes 
-  - (mock-up)
-  - prototypes
-
-### 8. La partie développement
-
-- **S32:** Configuration de l'environnement de travail
-- **S33:** Mise en place du dépôt et des branches BDD
-  - script SQL
-  - Quelques exemples de requêtes SQL
-  - (setup bdd docker) API
-  - Extraits de code
-  - logs
-  - test unitaires, intégration, E2E (+performance si fait) front
-- **S34-35:** Interfaces utilisateur (responsive-accessibilité-code-W3C)
-  - extrait de code
-  - plan de tests (se renseigner sur le sujet):
-  - unitaire, intégration, E2E
-- **S37:** Composants métiers
-- **S38:** stratégie de sécurisation de l'API
-- **S39:** Composants d'accès aux données
-- **S46-49:** Plan de tests
-- **S46:** pyramide des test
-- **S47:** Tests unitaires
-- **S48:** Tests d'intégration
-- **S49:** Tests end-to-end (performance si a )
-- veille sécu (attantion revoir si bien placé)
-
-### 9. La partie déploiement (5 Ss)
-
-- **S42-43:** DevOps
-- **S42:** Docker (setup BDD)
-- **S43:** CI/CID (github actions)
-- VPS
-- **S44-45:** Documentation
-- **S44:** Documentation à l'attention des techs
-- **S45:** Documentation à l'attention des non techs(step by step des fonctionnalités principales)
-
-### 10. Démo de l'application
-
-- **S50:** couverture démo
-
-### 11. Conclusion
-
-- **S51:** conslusion générale (bilan projet, formation, si c'était à refaire)
-- **S52:** Remerciements(soutien pendant le projet et merci de m'avoir écouté) et questions
 
 ![border](../../assets/line/line-teal-point_r.png)
 
