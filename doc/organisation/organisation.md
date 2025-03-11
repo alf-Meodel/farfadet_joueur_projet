@@ -25,11 +25,10 @@
 - [x] Je doit le rassurer sur “l’après stage” , afin qu’il sache comment gérer son site ou si il peut compter sur moi pour un contrat de maintenance 
 
 - [x] Possibilité d’attirer des joueurs de la région qui ne connaissent pas encore la boutique.
-- [ ] Presentation de Justin qui va rejoindre le projet  
-- [ ] Presentation d'une roadmap pour la durée du projet 
-- [ ] Faire une liste des priorités 
-- [ ] Presentation de la methode de travail 
+- [x] Presentation de Justin qui va rejoindre le projet  
 - [ ] Faire une liste des besoins et les repartir dans le temps 
+- [ ] Terminer les premières maquettes
+- [ ] Ecrire les règles de gestion
 
 ![border](../../assets/line/line-teal-point_r.png)
 
