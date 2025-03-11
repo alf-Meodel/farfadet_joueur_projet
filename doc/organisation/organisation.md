@@ -29,6 +29,7 @@
 - [ ] Faire une liste des besoins et les repartir dans le temps 
 - [ ] Terminer les premières maquettes
 - [ ] Ecrire les règles de gestion
+- [ ] Lancer un Kanban sur Jira ? 
 
 ![border](../../assets/line/line-teal-point_r.png)
 
