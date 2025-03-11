@@ -15,16 +15,16 @@
 ![border](../../assets/line/line-pink-point_l.png)
 
 
-- [1802_Proposition du projet](/doc/entretiens/1802_E0.md)
-- [2102_Validation du stage](/doc/entretiens/2102_E1.md)
-- [0503_E3 Présentation de Justin](/doc/entretiens/0503_E3.md)
+- [0218_Proposition du projet](/doc/entretiens/0218_E1.md)
+- [0221_Validation du stage](/doc/entretiens/0221_E2.md)
+- [0305_E3 Présentation de Justin](/doc/entretiens/0305_E3.md)
 
 
 
 ## Points Stratégiques: 
 
 - Transformer son site en une extension naturelle de sa boutique, et non une contrainte supplémentaire.
-- Possibilité d’afficher des informations sans passer par Facebook
+- Possibilité d'afficher des informations sans passer par Facebook
 - Un QR Code à afficher en boutique pour accéder aux événements.
 - Option "Réserver un jeu en ligne et venir le chercher" (Click & Collect).
 - Pas un gros e-commerce, mais une vitrine des jeux disponibles en boutique.
