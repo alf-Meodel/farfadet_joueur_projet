@@ -15,9 +15,9 @@
 ![border](../../assets/line/line-pink-point_l.png)
 
 
-- [0218_Proposition du projet](/doc/entretiens/0218_E1.md)
-- [0221_Validation du stage](/doc/entretiens/0221_E2.md)
-- [0305_E3 Présentation de Justin](/doc/entretiens/0305_E3.md)
+- [0218_Proposition du projet_E1](/doc/entretiens/0218_E1.md)
+- [0221_Validation du stage_E2](/doc/entretiens/0221_E2.md)
+- [0305_Présentation de Justin_E3](/doc/entretiens/0305_E3.md)
 
 
 
